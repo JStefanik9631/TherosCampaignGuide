@@ -17,13 +17,6 @@ Shield (+1)
 [[Trident of Fish Command]]
 [[Water of Lyth]]
 [[Wand of Fireballs]]
-
-### [[Fenres|Fenres]]
-
-
-### [[Fredrick]]
-
-
 ### [[Halcyon]]
 
 [[Amulet of Proof against Detection and Location]]
