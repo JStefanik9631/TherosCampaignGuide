@@ -1,7 +1,13 @@
 ---
-title: My GitHub Pages Notebook!
+title: Theros Campaign Guide
 ---
 
-Hello world!
+Hello guys! Had to make a new website due to some issues, this one should be even better.
 
-Write some words here! dnd is fun 
+Here are the usual links:
+
+[[Party Journal]]
+[[Current Quests]]
+[[Item List]]
+[[Party Gold]]
+
