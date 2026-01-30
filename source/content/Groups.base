@@ -1,0 +1,7 @@
+filters: file.folder == "Groups"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - NumberNameRaceClassWeaponPartyFrozenYearsAgoAgeAtFreezing

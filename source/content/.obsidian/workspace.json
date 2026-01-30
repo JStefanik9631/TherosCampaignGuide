@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theros Campaign/Party Info/Item List.md",
+                "file": "Theros Campaign/Groups/Ashlands Rescued NPCs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Item List"
-            }
-          },
-          {
-            "id": "b6d5d7053c19fe15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theros Campaign/Party Info/Item List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Item List"
+              "title": "Ashlands Rescued NPCs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,38 +167,41 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Theros Campaign/Groups/Gold Horns.md",
+    "Groups/21,Harlan Pike,Human,Champion Fighter,Pitchfork,Lone Operatives,4,39.md",
+    "Groups/11,Nyx of the Low Canopy,Satyr,Way of Shadow Monk,Nunchucks,The Black Horizon,7,29.md",
+    "Groups/6,Arvex Shellborn,Triton,Armorer Artificer,Lightning gauntlet,The Tidebound Commission,11,44.md",
+    "Groups/2,Myrren Vale,Triton,Tempest Cleric,Storm-etched trident,The Gilded Contract,17,61.md",
+    "Groups/1,Kaelen Dross,Human,Battlemaster Fighter,Broadsword,The Gilded Contract,18,42.md",
+    "Theros Campaign/Groups/Ashlands Rescued NPCs.md",
+    "Groups.base",
+    "Groups/20,Edrin of No Tomorrow,Human,Chronurgy Wizard,Silver-tipped staff,Lone Operatives,20,67.md",
+    "Groups/19,Lysa Emberfell,Human,Wild Magic Sorcerer,Arcane focus ring,Lone Operatives,8,22.md",
+    "Groups/18,Vaelis Sunmane,Leonin,Champion Fighter,Gilded longsword and shield,Lone Operatives,9,33.md",
+    "Groups/17,Oren Thatch,Human,Gloom Stalker Ranger,Longbow,Lone Operatives,3,35.md",
+    "Groups/16,Bren Hollowtide,Minotaur,Grave Cleric,Bone-handled mace,Ashhorn Exiles,15,63.md",
+    "Groups/15,Torvak Ashhorn,Minotaur,Zealot Barbarian,Blood-rune maul,Ashhorn Exiles,20,29.md",
+    "Groups/14,Thalassa Brightwake,Triton,Light Cleric,Sun-emblazoned warhammer,The Verdant Oath,11,54.md",
+    "Groups/13,Rhun Stonehide,Minotaur,Oath of the Ancients Paladin,Vine-wrapped greatsword,The Verdant Oath,10,47.md",
+    "Groups/12,Iskander Reed,Human,Genie Warlock,Scimitar and brass lamp,The Black Horizon,6,38.md",
+    "Groups/10,Irix the Many-Eyed,Satyr,Aberrant Mind Sorcerer,Crystal circlet focus,The Silver Masque,10,41.md",
+    "Groups/9,Damar Kells,Human,Phantom Rogue,Blackened dagger,The Silver Masque,9,31.md",
+    "Groups/8,Seris Moonstep,Human,Circle of Dreams Druid,Moonstone druidic staff,The Silver Masque,13,36.md",
+    "Groups/7,Calira Wavecrest,Triton,Circle of the Land Druid (Coast),Driftwood staff,The Tidebound Commission,13,79.md",
+    "Groups/5,Kaia Deepcurrent,Triton,Swashbuckler Rogue,Twin coral short swords,The Tidebound Commission,12,27.md",
+    "Groups/4,Albrecht Wyn,Human,Divination Wizard,Crystal-eyed staff,The Gilded Contract,16,58.md",
+    "Groups/3,Korvath Dune-Eater,Minotaur,Rune Knight Fighter,Rune-carved greataxe,The Gilded Contract,20,34.md",
+    "Groups",
+    "Theros Campaign/Groups/Felhide Clan.md",
+    "Theros Campaign/Groups/The Twelve.md",
     "Theros Campaign/Attachments/Pasted image 20251121165226.png",
-    "Theros Campaign/Items/Wand of Fireballs.md",
-    "Templates/Race.md",
-    "Templates/Player.md",
-    "Templates/NPC.md",
-    "Templates/Location.md",
-    "Templates/Item.md",
-    "Templates/Info.md",
-    "Templates/Group.md",
-    "Templates/City.md",
-    "Templates/Artifact.md",
     "Templates",
-    "Theros Campaign/Party Info/Item List.md",
-    "Theros Campaign/Party Info/Party Journal.md",
-    "index.md",
-    "Theros Campaign/DM Notes/Current Fight.md",
-    "Theros Campaign/DM Notes/8 Exceptions.md",
-    "Theros Campaign/DM Notes/5 Players.md",
-    "Not Done/Akroans.md",
-    "Not Done/Despair Lands.md",
-    "Not Done/Court of Orestes.md",
-    "Not Done/Blood Tree.md",
-    "Not Done/Antolis.md",
-    "Not Done/Katachthon Mountains.md",
-    "Not Done/Kamadan.md",
-    "Not Done/Kakomanteis.md",
-    "Not Done/Isoton.md",
     "Not Done",
     "Theros Campaign/Players",
     "Theros Campaign/Party Info",
@@ -222,8 +210,6 @@
     "Theros Campaign/Miscellaneous",
     "Theros Campaign/Locations",
     "Theros Campaign/Items",
-    "Theros Campaign/Groups",
-    "Theros Campaign/Gods of Theros",
     "Theros Campaign/Attachments/Varyas-20240929155215337.webp",
     "Theros Campaign/Attachments/theros map.jpg",
     "Theros Campaign/Attachments/The Butler-20240929151938832.webp",

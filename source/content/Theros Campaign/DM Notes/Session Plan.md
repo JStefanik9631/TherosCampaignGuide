@@ -346,66 +346,7 @@ While traveling party hears a flute concert going on near a small hamlet. As the
 
 ![[Pasted image 20251001002155.png|300]]
 
-Musician Fight
-
-Phase 1
-
-- **Villager Screen**:  
-    The villagers act as living cover. Any ranged AoE risks harming innocents.
-    
-- **Harmony of Obedience (Lair Action)**  
-    Every round, 1–2 villagers step forward and grapple or restrain a random party member, trying to “bring them back to the music.”
-    
-- **Shadow Shots**  
-    The Minstrel only attacks through **shadow tentacles** or blasts from rooftops. He is **untouchable** until broken out of this phase. **2d8 + 4 (avg 13)**
-
-Phase 2
-- **Claw / Reach Strike (melee):** `3d8 + 4 (avg 17.5)`, **slashing/necrotic**
-- **Shadow Blink**: Teleports between patches of darkness.
-    
-- **Piercing Note (Cone Attack)**: Psychic damage + forced movement. **6d6 psychic (avg 21)**
-    
-- **Discordant Harmony (Legendary Action)**: Forces two players to make a Wis save or attack each other once.
-
-The lanterns around the square begin to **dim** every round.
-
-- At 75% light → Minstrel gains ½ cover.
-    
-- At 50% light → Minstrel becomes resistant to weapon damage.
-    
-- At total darkness → Phase 3 triggers automatically.
-    
-
-Phase 3
-- **Shadow Doppelgängers**  
-    The Minstrel creates **copies of the party members**, each weaker but mimicking their abilities.
-    
-- **Grasping Spotlight**  
-    A moving cone of dim light sweeps the arena:
-    
-    - Standing in it gives advantage on attacks.
-        
-    - The Minstrel avoids it at all costs.
-        
-- **Tethered Souls**  
-    Each round, one player must make a Wis save or have a **shadow chain** connect them to the Minstrel. **1d6 (avg 3.5)**
-    
-    - While tethered → They take damage when the Minstrel does.
-        
-    - Breaking the chain requires STR or radiant damage.
-
-Phase 4
-
-- **Final Cacophony (Recharge 5–6)**  
-    30 ft radius sonic burst; pushes and deafens. **8d8 (avg 36)**
-    
-- **Consume Shadow**  
-    Targets a prone or unconscious creature to heal. **`6d8 (avg 27)`** necrotic (use sparingly).
-    
-- **Screeching Counterpoint (Reaction)**  
-    When hit by magic → He emits a counter-tone that forces a concentration check on the caster. **`3d8 (avg 13.5)` psychic**
-    
-**Multi-limb Slash (melee attack):** **`4d8 + 6 (avg 24)`**
-    
-
 Any light source the party enhances (Light spell, torches, radiant abilities) now **burns him**, making him vulnerable to radiant damage.
+
+purifying water = https://www.reddit.com/r/TheGriffonsSaddlebag/comments/1ieic8b/the_griffons_saddlebag_celestial_ambrosia_potion
+
