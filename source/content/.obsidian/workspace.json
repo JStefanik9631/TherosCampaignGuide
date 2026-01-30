@@ -8,20 +8,105 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "a02fc8f3e1518cbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theros Campaign/Groups/Ashlands Rescued NPCs.md",
+                "file": "Theros Campaign/Items/Dwarven Plate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ashlands Rescued NPCs"
+              "title": "Dwarven Plate"
+            }
+          },
+          {
+            "id": "729b7e08b79cf291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theros Campaign/Players/Mograth Fire-Scarred.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mograth Fire-Scarred"
+            }
+          },
+          {
+            "id": "9564f302b12b2ed4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theros Campaign/Players/Mograth Fire-Scarred.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mograth Fire-Scarred"
+            }
+          },
+          {
+            "id": "c0712e083f873045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theros Campaign/Players/Mograth Fire-Scarred.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mograth Fire-Scarred"
+            }
+          },
+          {
+            "id": "d8de86054accfbf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theros Campaign/Items/Belt of Cloud Giant Strength.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Belt of Cloud Giant Strength"
+            }
+          },
+          {
+            "id": "8b577ced3d0e8e1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theros Campaign/Players/Halcyon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Halcyon"
+            }
+          },
+          {
+            "id": "4bcf1a615373a609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theros Campaign/Items/Bracers of Defense.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bracers of Defense"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -94,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theros Campaign/Party Info/Item List.md",
+                "file": "Theros Campaign/Players/Halcyon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Item List"
+              "title": "Backlinks for Halcyon"
             }
           },
           {
@@ -155,8 +240,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,52 +255,53 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "8b577ced3d0e8e1d",
   "lastOpenFiles": [
-    "Theros Campaign/Groups/Gold Horns.md",
-    "Groups/21,Harlan Pike,Human,Champion Fighter,Pitchfork,Lone Operatives,4,39.md",
-    "Groups/11,Nyx of the Low Canopy,Satyr,Way of Shadow Monk,Nunchucks,The Black Horizon,7,29.md",
-    "Groups/6,Arvex Shellborn,Triton,Armorer Artificer,Lightning gauntlet,The Tidebound Commission,11,44.md",
-    "Groups/2,Myrren Vale,Triton,Tempest Cleric,Storm-etched trident,The Gilded Contract,17,61.md",
-    "Groups/1,Kaelen Dross,Human,Battlemaster Fighter,Broadsword,The Gilded Contract,18,42.md",
-    "Theros Campaign/Groups/Ashlands Rescued NPCs.md",
+    "Theros Campaign/Items/Belt of Cloud Giant Strength.md",
+    "Theros Campaign/Items/Belt of Hill Giant Strength.md",
+    "Theros Campaign/Attachments/Pasted image 20260130172551.png",
+    "Theros Campaign/Players/Mograth Fire-Scarred.md",
+    "Theros Campaign/Items/Longsword of Wounding.md",
+    "Theros Campaign/Attachments/Pasted image 20260130172306.png",
+    "Theros Campaign/Items/Bracers of Defense.md",
+    "Theros Campaign/Attachments/Pasted image 20260130172041.png",
+    "Theros Campaign/Party Info/Party Journal.md",
+    "Theros Campaign/Players/Fenres.md",
+    "Theros Campaign/Players/Reginald.md",
+    "Theros Campaign/Attachments/Pasted image 20260130171714.png",
+    "Theros Campaign/Items/Dwarven Plate.md",
+    "Theros Campaign/Attachments/Pasted image 20260130171635.png",
+    "Theros Campaign/Items/Ioun Stone of Intelligence.md",
+    "Theros Campaign/Attachments/Pasted image 20260130171507.png",
+    "Theros Campaign/Items/Rod of Rulership.md",
+    "Theros Campaign/Attachments/Pasted image 20260130171200.png",
+    "Theros Campaign/Items/Death Brand.md",
+    "Theros Campaign/Attachments/Pasted image 20260130170930.png",
+    "Theros Campaign/Items/Armor of Etherealness.md",
+    "Theros Campaign/Attachments/Pasted image 20260130170756.png",
+    "Theros Campaign/Items/The Musician's Flute.md",
+    "Theros Campaign/Attachments/Pasted image 20260130170457.png",
+    "Theros Campaign/Items/Kirin Hornbow.md",
+    "Theros Campaign/Items/Healing Potion.md",
+    "Theros Campaign/Items/Green Glasses.md",
+    "Theros Campaign/Items/Gloves of the Magpie.md",
+    "Theros Campaign/Items/Folding Tent.md",
+    "Theros Campaign/Items/Fieldstride.md",
+    "Theros Campaign/Items/Eyes of the Eagle.md",
+    "Theros Campaign/Items/Duck Cane.md",
+    "Theros Campaign/Items/Adamantine Plate Armor.md",
+    "Theros Campaign/Items/Adamantine Chain Shirt.md",
+    "Theros Campaign/Items/Battle Dancer Garb.md",
+    "Theros Campaign/DM Notes/Session Plan.md",
     "Groups.base",
-    "Groups/20,Edrin of No Tomorrow,Human,Chronurgy Wizard,Silver-tipped staff,Lone Operatives,20,67.md",
-    "Groups/19,Lysa Emberfell,Human,Wild Magic Sorcerer,Arcane focus ring,Lone Operatives,8,22.md",
-    "Groups/18,Vaelis Sunmane,Leonin,Champion Fighter,Gilded longsword and shield,Lone Operatives,9,33.md",
-    "Groups/17,Oren Thatch,Human,Gloom Stalker Ranger,Longbow,Lone Operatives,3,35.md",
-    "Groups/16,Bren Hollowtide,Minotaur,Grave Cleric,Bone-handled mace,Ashhorn Exiles,15,63.md",
-    "Groups/15,Torvak Ashhorn,Minotaur,Zealot Barbarian,Blood-rune maul,Ashhorn Exiles,20,29.md",
-    "Groups/14,Thalassa Brightwake,Triton,Light Cleric,Sun-emblazoned warhammer,The Verdant Oath,11,54.md",
-    "Groups/13,Rhun Stonehide,Minotaur,Oath of the Ancients Paladin,Vine-wrapped greatsword,The Verdant Oath,10,47.md",
-    "Groups/12,Iskander Reed,Human,Genie Warlock,Scimitar and brass lamp,The Black Horizon,6,38.md",
-    "Groups/10,Irix the Many-Eyed,Satyr,Aberrant Mind Sorcerer,Crystal circlet focus,The Silver Masque,10,41.md",
-    "Groups/9,Damar Kells,Human,Phantom Rogue,Blackened dagger,The Silver Masque,9,31.md",
-    "Groups/8,Seris Moonstep,Human,Circle of Dreams Druid,Moonstone druidic staff,The Silver Masque,13,36.md",
-    "Groups/7,Calira Wavecrest,Triton,Circle of the Land Druid (Coast),Driftwood staff,The Tidebound Commission,13,79.md",
-    "Groups/5,Kaia Deepcurrent,Triton,Swashbuckler Rogue,Twin coral short swords,The Tidebound Commission,12,27.md",
-    "Groups/4,Albrecht Wyn,Human,Divination Wizard,Crystal-eyed staff,The Gilded Contract,16,58.md",
-    "Groups/3,Korvath Dune-Eater,Minotaur,Rune Knight Fighter,Rune-carved greataxe,The Gilded Contract,20,34.md",
     "Groups",
-    "Theros Campaign/Groups/Felhide Clan.md",
-    "Theros Campaign/Groups/The Twelve.md",
-    "Theros Campaign/Attachments/Pasted image 20251121165226.png",
     "Templates",
     "Not Done",
     "Theros Campaign/Players",
     "Theros Campaign/Party Info",
     "Theros Campaign/NPCs",
-    "Theros Campaign/Miscellaneous/Large Theros Map.png",
     "Theros Campaign/Miscellaneous",
     "Theros Campaign/Locations",
-    "Theros Campaign/Items",
-    "Theros Campaign/Attachments/Varyas-20240929155215337.webp",
-    "Theros Campaign/Attachments/theros map.jpg",
-    "Theros Campaign/Attachments/The Butler-20240929151938832.webp",
-    "Theros Campaign/Attachments/The Wolf Cub-20240929152922940.webp",
-    "Theros Campaign/Attachments/Thassa-20240929021306126.webp",
-    "Theros Campaign/Attachments/Templates-20240929140330507.webp",
-    "Theros Campaign/Attachments/Tedkah-20240929151547538.webp",
-    "Theros Campaign/Attachments/Purphoros-20240929021039188.webp"
+    "Theros Campaign/Items"
   ]
 }

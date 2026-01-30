@@ -3,7 +3,7 @@ draft: false
 tags:
   - Player
 ---
-![[NPC-20240929145232171.webp|500]]
+![[Pasted image 20260130150831.png|300]]
 
 **Race:** [[Triton]]
 

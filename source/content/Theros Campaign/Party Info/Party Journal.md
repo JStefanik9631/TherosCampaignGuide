@@ -78,4 +78,29 @@ tags:
 2. The party grouped up to visit [[Khea]], however she and [[Varyas' Mask]] were missing. The party did find a hidden box with the translation in side. 
 3. The party discussed [[Varyas' Poem]] and shared it with a few others. During Poker Night, a bound Pythis that [[Henrik]] met ran into the house. When his mask was removed, a fireball spell went off burning everyone and killing Pythis. The mask he was wearing had the following message on the back "Little adventurers should not stick their nose where it doesn't belong."
 4. The party spoke with [[Detective Adonis]] regarding the murder that took place in their basement. They confided in him that something was afoot involving the returned.
-5. After performing some random tasks, [[Percy]] saw a commotion near the temple of [[Heliod]]. After investigating with the rest of the party, it was revealed that the temple was attacked in a similar way as their basement. [[Corvel]] noticed that the bound body with a gold mask next to it, was of a young teenage girl. 
+5. After performing some random tasks, [[Percy]] saw a commotion near the temple of [[Heliod]]. After investigating with the rest of the party, it was revealed that the temple was attacked in a similar way as their basement. [[Corvel]] noticed that the bound body with a gold mask next to it, was of a young teenage girl. The body looked like [[Aria]]. 
+6. The party investigated around [[Meletis]] and split up to various locations. [[Reginald]] was kidnapped. The party searched around with no luck until he was teleported back a few hours later. The culprit was [[Reginald]]'s extended family, the [[Thornwell Family]]. It was also, revealed that they were most likely the ones who stole the [[Crown of Antigonos]].
+7. The group went to see a play that is very divisive. They met [[Reginald]]'s father, mother, and brother. The party learns that [[Reginald]] and [[Corvel]] are brothers and the patriarch of their extended family is after both of them. After pleading from [[Reginald]]'s father, the group decides to be teleported out of [[Meletis]]. 
+8. The group decides to be teleported to the [[Ashlands]].
+
+### The Ashlands
+
+1. The party quickly learns that that [[Reginald]]'s brother [[Archibald]] was teleported with them. 
+2. The party decides to head in a random direction and eventually arrives at an Oasis. After being warned about the Oasis, the group decided to go in the water and were quickly trapped. An undead dragon, [[Vorthalor]], almost attacks the party. However, [[Percy]] was able to stop him by speaking in Primordial.
+3. The party learns that [[Vorthalor]] is an oracle of [[Thassa]] and has been trapped here for many years with magical chains. To escape, he requires [[Purifying Water]], an Ember Stone Crown, and a dragonbone shard. 
+4. The party descended beneath the oasis to a temple of [[Thassa]] hidden under the water. The group was put through tests of knowledge and truth. Everyone except for [[Halcyon]] passed the test and received [[Purifying Water]]. 
+5. The group returned to find [[Archibald]] missing, however the party tracked the path of his kidnappers. 
+6. The party followed the path and dealt with several minotaurs on the way. After a failed attempt at disguise, the party was discovered and chase by a horde of minotaurs. [[Reginald]] suffered a wild magic surge and disappeared. [[Corvel]] heard music in the distance which lead to the party entering a strange village.
+7. The party quickly found they could not leave the village. they met up with [[Sir Godfrey of Highmere]]. All of the town's citizens loved a traveling musician in town, aptly named [[The Musician]]. 
+8. [[Sir Godfrey of Highmere]] joined the party.
+9. [[Corvel]] was able to identify that [[The Musician]] was an entity similar to [[The Butler]]. The party fought it and won, with most of the villagers dying as well. The magic keeping the party from escaping was slowly fading, revealing a horde of minotaurs waiting for them. 
+10. The group tried to hide, but were welcomed openly by a necromancer named [[Tesme Falllight]], who works for the [[King of the Ashlands]]. 
+11. The party agreed to go willingly lest they face dozens of minotaurs. 
+### The Ashlands Castle
+
+1. The group was welcomed by [[Tesme Falllight|Tesme]] and sent to meet the [[King of the Ashlands]], who began fighting the party immediately. 
+2. The party was victorious and was able to free several [[Ashlands Rescued NPCs|adventurers]] from statues of solid gold. 
+3. [[Mograth Fire-Scarred]] joined the party.
+4. The party and adventurers took a lot of gold and attempted to leave. [[Tesme Falllight|Tesme]] let them leave under the condition that she maintains the castle and the [[Ashlands]]. 
+5. The group left while seeing hundreds of risen undead under her control. 
+
