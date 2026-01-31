@@ -7,6 +7,7 @@ tags:
 
 [[Alchemy Blade]]
 [[Amulet of Proof against Detection and Location]]
+[[Armor of Etherealness]]
 Black Velvet Mask
 [[Goggles of Night]]
 2 [[Healing Potion]]s
@@ -17,14 +18,17 @@ Shield (+1)
 [[Trident of Fish Command]]
 [[Water of Lyth]]
 [[Wand of Fireballs]]
+[[Duck Cane]]
 ### [[Halcyon]]
 
 [[Amulet of Proof against Detection and Location]]
+[[Belt of Cloud Giant Strength]]
 Dagger
 [[Dancing Shoes]]
 [[Deer Hunter's Armor]]
 [[Green Glasses]]
 3 [[Healing Potion]]s
+[[Ioun Stone of Intelligence]]
 [[Potion of Invisibility]]
 [[Phythaezea's Lyre]]
 Rapier
@@ -40,6 +44,7 @@ Bow (+1)
 [[Eyes of the Eagle]]
 [[Healing Potion]]
 [[Potion of Invisibility]]
+[[Rod of Rulership]]
 Rope
 [[Square Stone]]
 [[Staff of the Python]]
@@ -49,6 +54,9 @@ Rope
 ### [[Percy]]
 
 [[Cloak of Elvenkind]]
+[[Gloves of the Magpie]]
+[[Death Brand]]
+[[Battle Dancer Garb]]
 Dagger
 Rapier
 Rope
@@ -64,6 +72,14 @@ Rope
 [[Water of Lyth]]
 [[Wand of Detect Magic]]
 
+### [[Sir Godfrey of Highmere]]
+[[Fieldstride]]
+[[Dwarven Plate]]
+
+
+### [[Mograth Fire-Scarred]]
+[[Axe of the Radiant Sun]]
+[[Bracers of Defense]]
 ### Party
 
 Bow (+1)

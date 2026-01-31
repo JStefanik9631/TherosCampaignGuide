@@ -5,7 +5,7 @@ tags:
 ---
 ![[Pasted image 20260130165948.png|300]]
 
-**Current Owner:** NA
+**Current Owner:** [[Percy]]
 
 **Type**: NA (requires attunement)
 

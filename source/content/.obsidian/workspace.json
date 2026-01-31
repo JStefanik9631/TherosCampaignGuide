@@ -8,87 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a02fc8f3e1518cbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theros Campaign/Items/Dwarven Plate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dwarven Plate"
-            }
-          },
-          {
-            "id": "729b7e08b79cf291",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theros Campaign/Players/Mograth Fire-Scarred.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mograth Fire-Scarred"
-            }
-          },
-          {
-            "id": "9564f302b12b2ed4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theros Campaign/Players/Mograth Fire-Scarred.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mograth Fire-Scarred"
-            }
-          },
-          {
-            "id": "c0712e083f873045",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theros Campaign/Players/Mograth Fire-Scarred.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mograth Fire-Scarred"
-            }
-          },
-          {
-            "id": "d8de86054accfbf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theros Campaign/Items/Belt of Cloud Giant Strength.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Belt of Cloud Giant Strength"
-            }
-          },
-          {
             "id": "8b577ced3d0e8e1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theros Campaign/Players/Halcyon.md",
+                "file": "Theros Campaign/Party Info/Item List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Halcyon"
+              "title": "Item List"
+            }
+          },
+          {
+            "id": "0d900a7a9c72ed80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theros Campaign/Groups/Ashlands Rescued NPCs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ashlands Rescued NPCs"
+            }
+          },
+          {
+            "id": "071833f260fb4fa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theros Campaign/Items/Battle Dancer Garb.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Battle Dancer Garb"
+            }
+          },
+          {
+            "id": "30394bbc7acd4e37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theros Campaign/Items/Gloves of the Magpie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gloves of the Magpie"
             }
           },
           {
@@ -106,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theros Campaign/Players/Halcyon.md",
+                "file": "Theros Campaign/Groups/Ashlands Rescued NPCs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Halcyon"
+              "title": "Backlinks for Ashlands Rescued NPCs"
             }
           },
           {
@@ -240,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,44 +228,44 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8b577ced3d0e8e1d",
+  "active": "0d900a7a9c72ed80",
   "lastOpenFiles": [
+    "Theros Campaign/Gods of Theros/Kruphix.md",
+    "Theros Campaign/Gods of Theros/Mogis.md",
+    "Theros Campaign/Gods of Theros/Nylea.md",
+    "Theros Campaign/Gods of Theros/Pharika.md",
+    "Theros Campaign/Gods of Theros/Phenax.md",
+    "Theros Campaign/Gods of Theros/Thassa.md",
+    "Theros Campaign/Gods of Theros/Purphoros.md",
+    "Theros Campaign/Gods of Theros/Klothys.md",
+    "Theros Campaign/Gods of Theros/Keranos.md",
+    "Theros Campaign/Gods of Theros/Karametra.md",
+    "Theros Campaign/Gods of Theros/Iroas.md",
+    "Theros Campaign/Gods of Theros/Heliod.md",
+    "Theros Campaign/Gods of Theros/Erebos.md",
+    "Theros Campaign/Gods of Theros/Ephara.md",
+    "Theros Campaign/Gods of Theros/Athreos.md",
+    "Theros Campaign/Groups/Ashlands Rescued NPCs.md",
+    "Theros Campaign/Players/Halcyon.md",
+    "Theros Campaign/Party Info/Item List.md",
+    "Theros Campaign/Items/Dwarven Plate.md",
+    "Theros Campaign/Items/Rod of Rulership.md",
+    "Theros Campaign/Items/Battle Dancer Garb.md",
+    "Theros Campaign/Items/Gloves of the Magpie.md",
     "Theros Campaign/Items/Belt of Cloud Giant Strength.md",
     "Theros Campaign/Items/Belt of Hill Giant Strength.md",
     "Theros Campaign/Attachments/Pasted image 20260130172551.png",
     "Theros Campaign/Players/Mograth Fire-Scarred.md",
     "Theros Campaign/Items/Longsword of Wounding.md",
     "Theros Campaign/Attachments/Pasted image 20260130172306.png",
-    "Theros Campaign/Items/Bracers of Defense.md",
     "Theros Campaign/Attachments/Pasted image 20260130172041.png",
-    "Theros Campaign/Party Info/Party Journal.md",
-    "Theros Campaign/Players/Fenres.md",
-    "Theros Campaign/Players/Reginald.md",
     "Theros Campaign/Attachments/Pasted image 20260130171714.png",
-    "Theros Campaign/Items/Dwarven Plate.md",
     "Theros Campaign/Attachments/Pasted image 20260130171635.png",
-    "Theros Campaign/Items/Ioun Stone of Intelligence.md",
     "Theros Campaign/Attachments/Pasted image 20260130171507.png",
-    "Theros Campaign/Items/Rod of Rulership.md",
     "Theros Campaign/Attachments/Pasted image 20260130171200.png",
-    "Theros Campaign/Items/Death Brand.md",
     "Theros Campaign/Attachments/Pasted image 20260130170930.png",
-    "Theros Campaign/Items/Armor of Etherealness.md",
     "Theros Campaign/Attachments/Pasted image 20260130170756.png",
-    "Theros Campaign/Items/The Musician's Flute.md",
     "Theros Campaign/Attachments/Pasted image 20260130170457.png",
-    "Theros Campaign/Items/Kirin Hornbow.md",
-    "Theros Campaign/Items/Healing Potion.md",
-    "Theros Campaign/Items/Green Glasses.md",
-    "Theros Campaign/Items/Gloves of the Magpie.md",
-    "Theros Campaign/Items/Folding Tent.md",
-    "Theros Campaign/Items/Fieldstride.md",
-    "Theros Campaign/Items/Eyes of the Eagle.md",
-    "Theros Campaign/Items/Duck Cane.md",
-    "Theros Campaign/Items/Adamantine Plate Armor.md",
-    "Theros Campaign/Items/Adamantine Chain Shirt.md",
-    "Theros Campaign/Items/Battle Dancer Garb.md",
-    "Theros Campaign/DM Notes/Session Plan.md",
     "Groups.base",
     "Groups",
     "Templates",

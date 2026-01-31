@@ -19,7 +19,7 @@ tags:
 
 **AC:** 11
 
-**Current Magical Items:** [[Amulet of Proof against Detection and Location]], [[Dancing Shoes]], [[Green Glasses]], [[Phythaezea's Lyre]], [[Unknown Sword]]
+**Current Magical Items:** [[Amulet of Proof against Detection and Location]], [[Belt of Cloud Giant Strength]], [[Dancing Shoes]], [[Green Glasses]], [[Phythaezea's Lyre]], [[Unknown Sword]]
 
 **Pre-Campaign History:** Unknown
 
