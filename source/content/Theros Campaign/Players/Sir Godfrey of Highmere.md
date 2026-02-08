@@ -13,7 +13,7 @@ tags:
 
 **Occupation:** Knight of Highmere
 
-**Current Magical Items:** [[Adamantine Plate Armor]], [[Fieldstride]]
+**Current Magical Items:** [[Dwarven Plate]], [[Fieldstride]]
 
 **Pre-Campaign History:** 
 

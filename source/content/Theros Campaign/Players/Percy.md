@@ -19,7 +19,7 @@ tags:
 
 **AC:** 15
 
-**Current Magical Items:** [[Cloak of Elvenkind]], [[Shadow Ink]]
+**Current Magical Items:** [[Gloves of the Magpie]], [[Battle Dancer Garb]], [[Death Brand]]
 
 **Pre-Campaign History:** Unknown
 

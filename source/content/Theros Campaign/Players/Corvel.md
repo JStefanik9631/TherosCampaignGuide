@@ -19,7 +19,7 @@ tags:
 
 **AC:** 20
 
-**Current Magical Items:** [[Goggles of Night]], [[Helm of Telepathy]], [[Trident of Fish Command]]
+**Current Magical Items:** [[Armor of Etherealness]], [[Wand of Fireballs]], [[Trident of Fish Command]]
 
 **Pre-Campaign History:** 
 

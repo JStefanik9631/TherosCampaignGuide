@@ -13,6 +13,7 @@ Black Velvet Mask
 2 [[Healing Potion]]s
 [[Helm of Telepathy]]
 [[Potion of Invisibility]]
+[[Purifying Water]]
 Rope
 Shield (+1)
 [[Trident of Fish Command]]
@@ -44,6 +45,7 @@ Bow (+1)
 [[Eyes of the Eagle]]
 [[Healing Potion]]
 [[Potion of Invisibility]]
+[[Purifying Water]]
 [[Rod of Rulership]]
 Rope
 [[Square Stone]]

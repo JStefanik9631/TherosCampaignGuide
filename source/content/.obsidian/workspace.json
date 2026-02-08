@@ -13,68 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theros Campaign/Party Info/Item List.md",
+                "file": "Theros Campaign/Party Info/Party Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Item List"
+              "title": "Party Journal"
             }
           },
           {
-            "id": "0d900a7a9c72ed80",
+            "id": "5076cf1373ac5612",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theros Campaign/Groups/Ashlands Rescued NPCs.md",
+                "file": "Theros Campaign/Miscellaneous/Varyas' Poem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ashlands Rescued NPCs"
-            }
-          },
-          {
-            "id": "071833f260fb4fa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theros Campaign/Items/Battle Dancer Garb.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Battle Dancer Garb"
-            }
-          },
-          {
-            "id": "30394bbc7acd4e37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theros Campaign/Items/Gloves of the Magpie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gloves of the Magpie"
-            }
-          },
-          {
-            "id": "4bcf1a615373a609",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theros Campaign/Items/Bracers of Defense.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bracers of Defense"
+              "title": "Varyas' Poem"
             }
           }
         ],
@@ -110,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "poem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,35 +186,35 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0d900a7a9c72ed80",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Theros Campaign/Gods of Theros/Kruphix.md",
-    "Theros Campaign/Gods of Theros/Mogis.md",
-    "Theros Campaign/Gods of Theros/Nylea.md",
-    "Theros Campaign/Gods of Theros/Pharika.md",
-    "Theros Campaign/Gods of Theros/Phenax.md",
-    "Theros Campaign/Gods of Theros/Thassa.md",
-    "Theros Campaign/Gods of Theros/Purphoros.md",
-    "Theros Campaign/Gods of Theros/Klothys.md",
-    "Theros Campaign/Gods of Theros/Keranos.md",
-    "Theros Campaign/Gods of Theros/Karametra.md",
-    "Theros Campaign/Gods of Theros/Iroas.md",
-    "Theros Campaign/Gods of Theros/Heliod.md",
-    "Theros Campaign/Gods of Theros/Erebos.md",
-    "Theros Campaign/Gods of Theros/Ephara.md",
-    "Theros Campaign/Gods of Theros/Athreos.md",
-    "Theros Campaign/Groups/Ashlands Rescued NPCs.md",
-    "Theros Campaign/Players/Halcyon.md",
+    "Theros Campaign/Party Info/Party Journal.md",
+    "Not Done/Borthalor.md",
+    "Theros Campaign/DM Notes/Session Plan.md",
+    "Theros Campaign/DM Notes/Divine Schemes.md",
     "Theros Campaign/Party Info/Item List.md",
-    "Theros Campaign/Items/Dwarven Plate.md",
-    "Theros Campaign/Items/Rod of Rulership.md",
-    "Theros Campaign/Items/Battle Dancer Garb.md",
-    "Theros Campaign/Items/Gloves of the Magpie.md",
-    "Theros Campaign/Items/Belt of Cloud Giant Strength.md",
-    "Theros Campaign/Items/Belt of Hill Giant Strength.md",
-    "Theros Campaign/Attachments/Pasted image 20260130172551.png",
+    "Theros Campaign/DM Notes/8 Exceptions.md",
+    "Theros Campaign/DM Notes/5 Players.md",
+    "Theros Campaign/DM Notes/Current Fight.md",
+    "Theros Campaign/Players/Halcyon.md",
     "Theros Campaign/Players/Mograth Fire-Scarred.md",
-    "Theros Campaign/Items/Longsword of Wounding.md",
+    "Theros Campaign/Players/Fenres Rasdera Hidden.md",
+    "Theros Campaign/Players/Fredrick.md",
+    "Theros Campaign/Players/Henrik.md",
+    "Theros Campaign/Players/Reginald.md",
+    "Theros Campaign/Players/Sir Godfrey of Highmere.md",
+    "Theros Campaign/Players/Percy.md",
+    "Theros Campaign/Players/Fenres.md",
+    "Theros Campaign/Players/Corvel.md",
+    "Theros Campaign/Miscellaneous/Varyas' Poem.md",
+    "Theros Campaign/NPCs/Agraforn Charel.md",
+    "Theros Campaign/Items/Duck Cane.md",
+    "Theros Campaign/Items/Wand of Fireballs.md",
+    "Theros Campaign/Groups/Ashlands Rescued NPCs.md",
+    "Theros Campaign/Items/Bracers of Defense.md",
+    "Theros Campaign/Items/Gloves of the Magpie.md",
+    "Theros Campaign/Items/Battle Dancer Garb.md",
+    "Theros Campaign/Attachments/Pasted image 20260130172551.png",
     "Theros Campaign/Attachments/Pasted image 20260130172306.png",
     "Theros Campaign/Attachments/Pasted image 20260130172041.png",
     "Theros Campaign/Attachments/Pasted image 20260130171714.png",

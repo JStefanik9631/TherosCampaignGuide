@@ -103,4 +103,6 @@ tags:
 3. [[Mograth Fire-Scarred]] joined the party.
 4. The party and adventurers took a lot of gold and attempted to leave. [[Tesme Falllight|Tesme]] let them leave under the condition that she maintains the castle and the [[Ashlands]]. 
 5. The group left while seeing hundreds of risen undead under her control. 
+6. The group and adventurers went to the Oasis and freed [[Borthalor]] in return for an artifact of [[Thassa]] which they returned.
+7. The group left the Ashlands after being confronted by a messenger sent by the [[Thornwell Family]]. 
 

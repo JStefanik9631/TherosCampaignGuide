@@ -350,3 +350,21 @@ Any light source the party enhances (Light spell, torches, radiant abilities) no
 
 purifying water = https://www.reddit.com/r/TheGriffonsSaddlebag/comments/1ieic8b/the_griffons_saddlebag_celestial_ambrosia_potion
 
+
+
+
+
+PERCY PLANS TO USE HIS
+
+PROHPET OF PHENAX CAUSING CHAOS IN MELETIS
+THRONWELLS
+MINER IN THE DEEPDS
+SAILOR, MAYBE ARTIFICER DUDE?
+KING OF ASHLANDS/EDRIC
+MAYBE PERCY FOR A THIEF?
+
+VANESSA THRONWELL (good sister), DARREN AND ZAYN THORNRWELL, know about thornsmith name, karametra - given to silver masque 
+
+Greetings Florence and the Machine, we appreciate the work you have done in the Ashlands. We are no longer interested in you as we now have what we want. Please hand over the flute you retrieved to our messenger and we shall no longer bother you. It would be much safer in our hands.
+
+-Zayn Thornwell
